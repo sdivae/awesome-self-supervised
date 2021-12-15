@@ -31,6 +31,7 @@ https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin
 https://github.com/zalandoresearch/fashion-mnist
 
 **On Image Similarity Search and Metrics**
+https://sites.google.com/view/isc2021
 https://keras.io/examples/vision/metric_learning/
 https://medium.com/deep-learning-hk/compute-document-similarity-using-autoencoder-with-triplet-loss-eb7eb132eb38
 https://arxiv.org/pdf/1503.03832.pdf
